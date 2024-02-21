@@ -8,7 +8,7 @@ We conduct a comprehensive evaluation of the proposed machine learning models us
 </p>
 </details>
 
-### Usage  
+## Usage  
 We provide the code to train and tune supervised, semi-supervised, and deep hybrid learning models. Please note that depending on your datasets, the models may need adjustments. 
 
 ## Data 
