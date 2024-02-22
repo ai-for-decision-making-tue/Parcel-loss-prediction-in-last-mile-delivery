@@ -15,17 +15,3 @@ We provide the code to train and tune supervised, semi-supervised, and deep hybr
 The dataset can not be shared due to confidentiality reasons. 
 
 ## How to cite 
-
-Please consider citing our paper if you use code or ideas from this project:
-
-de Leeuw, J., Bukhsh, Z., & Zhang, Y. (2023). ["Parcel loss prediction in last-mile delivery: deep and non-deep approaches with insights from Explainable AI"](https://arxiv.org/abs/2310.16602) arXiv preprint arXiv:2310.16602.
-
-
-```
-@article{de2023parcel,
-  title={Parcel loss prediction in last-mile delivery: deep and non-deep approaches with insights from Explainable AI},
-  author={de Leeuw, Jan and Bukhsh, Zaharah and Zhang, Yingqian},
-  journal={arXiv preprint arXiv:2310.16602},
-  year={2023}
-}
-```
