@@ -9,7 +9,7 @@ We conduct a comprehensive evaluation of the proposed machine learning models us
 </details>
 
 ## Usage  
-We provide the code to train and tune supervised, semi-supervised, and deep hybrid learning models. Please note that depending on your datasets, the models may need adjustments. 
+We provide the code to train and tune supervised and deep hybrid learning models. Please note that depending on your datasets, the models may need adjustments. 
 
 ## Data 
 The dataset can not be shared due to confidentiality reasons. 
